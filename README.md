@@ -1,3 +1,3 @@
 # hello_flutter
 
-A new Flutter project.
+Simple hello flutter app to familiarize myself with flutter
